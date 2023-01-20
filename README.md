@@ -1,7 +1,7 @@
 ![Kesslermatics Banner](https://user-images.githubusercontent.com/63284475/213759601-196e55d1-b90a-4441-8b5a-3cc3efcf7102.png)
 
 <h2 align="left">👨‍💻 About Me</h2>
-<a href='https://www.linkedin.com/in/robert-kessler-69b496208/'><img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/robert-kessler-69b496208/'><img alt="linkedin" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height='18px'/></a>
 
 I love coding 💻 and mostly focus on frontend stuff 📱. <br/>
 I have a designer heart ❤ which thrives in every project. <br/>
@@ -54,9 +54,3 @@ See my further microcontroller projects: <br/>
 </a>
 </p> 
 <br/>  <br/> 
-
-<h2 align="left">My Coding Stats</h2>
-test
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
