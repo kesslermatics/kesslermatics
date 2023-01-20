@@ -44,4 +44,5 @@ See my further microcontroller projects: <br/>
 </a>
 
 <h2 align="left" id="macropower-tech">My Listening Algorithm</h2>
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=the_losst)
