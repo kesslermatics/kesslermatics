@@ -36,12 +36,14 @@ See my further microcontroller projects: <br/>
 <br/> 
 
 <h2 align="left" id="macropower-tech">📈 My Github Stats</h2>
+<p align="left"> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kesslermatics&show_icons=true&theme=vision-friendly-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kesslermatics&show_icons=true&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesslermatics&theme=vision-friendly-dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesslermatics&theme=vision-friendly-dark&layout=compact" />
 </a>
+  </p>
 <br/> <br/>
 
 <h2 align="left" id="macropower-tech">🎵 My Listening Algorithm</h2>
