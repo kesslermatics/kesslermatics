@@ -45,4 +45,13 @@ See my further microcontroller projects: <br/>
 
 <h2 align="left" id="macropower-tech">My Listening Algorithm</h2>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=the_losst)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=the_losst&unique=true)" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=the_losst&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=the_losst&redirect=true" />
+</a>
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=the_losst&unique=true)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=the_losst&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=the_losst&redirect=true)
