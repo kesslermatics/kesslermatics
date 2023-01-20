@@ -47,14 +47,16 @@ See my further microcontroller projects: <br/>
 
 <p align="left"> 
 <a href="https://open.spotify.com/user/the_losst?si=1d4a2d5ac8cf4bf1">
-  <img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=the_losst&unique=true&count=7" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=the_losst&unique=true&count=7" />
 </a>
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=the_losst&redirect=true">
-  <img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=the_losst&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=the_losst&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true"/>
 </a>
-</p> <br/> 
+</p> 
+<br/>  <br/> 
 
 <h2 align="left">My Coding Stats</h2>
+test
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
