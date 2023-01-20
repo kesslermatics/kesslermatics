@@ -44,7 +44,7 @@ See my further microcontroller projects: <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesslermatics&theme=vision-friendly-dark&layout=compact" />
 </a>
   </p>
-<br/> <br/>
+<br/> 
 
 <h2 align="left" id="macropower-tech">🎵 My Listening Algorithm</h2>
 
