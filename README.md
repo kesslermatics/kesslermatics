@@ -18,7 +18,7 @@ See my further microcontroller projects: <br/>
 <a href="https://github.com/kesslermatics/Genetic-algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=Genetic-algorithms&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/kesslermatics/subscriptionmanager">
+<a href="https://github.com/kesslermatics/Pomodoro-Timer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=subscriptionmanager&theme=vision-friendly-dark" />
 </a>
 <br/> <br/>
