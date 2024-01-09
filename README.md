@@ -20,8 +20,8 @@ See my further microcontroller projects: <br/>
 <a href="https://github.com/kesslermatics/Genetic-algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=Genetic-algorithms&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/kesslermatics/Pomodoro-Timer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=pomodoro-timer&theme=vision-friendly-dark" />
+<a href="https://github.com/kesslermatics/AI-Snek">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=AI-Snek&theme=vision-friendly-dark" />
 </a>
 <br/> <br/>
 ... and many more.
@@ -31,6 +31,7 @@ See my further microcontroller projects: <br/>
 <p align="left"> 
 <a href="https://www.w3schools.com/cs" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" width="40" height="40"/> </a>
 </p>
 <br/> 
 
