@@ -3,9 +3,11 @@
 <h2 align="left">👨‍💻 About Me</h2>
 <a href='https://www.linkedin.com/in/robert-kessler-69b496208/'><img alt="linkedin" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true" height='18px'/></a>
 
-I love coding 💻 and mostly focus on frontend stuff 📱. <br/>
+I love coding 💻 and mostly focus on frontend stuff 📱 and artificial intelligence. <br/>
 I have a designer heart ❤ which thrives in every project. <br/>
 I started at 15 y/o with web development 🌐 and moved to C++ and embedded systems 🚗, which became my hobby afterwards. <br/>
+In 2023, I completed my Bachelor's degree in Applied Computer Science, laying a strong foundation in software development and computational theories. <br/>
+Presently, I am advancing my expertise by pursuing a Master's degree in Artificial Intelligence. <br/>
 In my freetime I like to create things with microcontroller and/or software development. <br/> <br/>
 See my further microcontroller projects: <br/>
 <a href="https://github.com/kesslermatics/Spiderrobot">
