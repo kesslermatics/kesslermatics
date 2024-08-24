@@ -38,10 +38,13 @@ See one of my biggest projects: <br/> <br/>
 </a>
 <br/> <br/>
 
-... or read my bachelor thesis: <br/> <br/>
+... or look into my research: <br/> <br/>
 
 <a href="https://github.com/kesslermatics/Vorhersage-von-Chlorophyll-a-in-Gewaessern">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=Vorhersage-von-Chlorophyll-a-in-Gewaessern&theme=vision-friendly-dark" />
+</a>
+<a href="https://github.com/kesslermatics/Vorhersage-von-Off-Target-Effekten-in-CRISPR-Cas9">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=Vorhersage-von-Off-Target-Effekten-in-CRISPR-Cas9&theme=vision-friendly-dark" />
 </a>
 
 ---
