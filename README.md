@@ -24,7 +24,6 @@ See one of my biggest projects: <br/>
 <br/> 
 
 <h2 align="left">📈 My Github Stats</h2>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kesslermatics)](https://git.io/streak-stats)
 <p align="left"> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kesslermatics&show_icons=true&theme=vision-friendly-dark" />
