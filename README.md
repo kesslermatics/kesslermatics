@@ -13,8 +13,8 @@ See my further microcontroller projects: <br/>
 <a href="https://github.com/kesslermatics/Spiderrobot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=spiderrobot&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/kesslermatics/Garduino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=garduino&theme=vision-friendly-dark" />
+<a href="https://github.com/kesslermatics/Aquaware">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=aquaware&theme=vision-friendly-dark" />
 </a> <br/> <br/>
 ... or my software projects: <br/>
 <a href="https://github.com/kesslermatics/Genetic-algorithms">
