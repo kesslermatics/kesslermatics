@@ -38,6 +38,12 @@ See one of my biggest projects: <br/> <br/>
 </a>
 <br/> <br/>
 
+... or read my bachelor thesis: <br/> <br/>
+
+<a href="https://github.com/kesslermatics/Vorhersage-von-Chlorophyll-a-in-Gewaessern">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=Vorhersage-von-Chlorophyll-a-in-Gewaessern&theme=vision-friendly-dark" />
+</a>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools I've worked with :
