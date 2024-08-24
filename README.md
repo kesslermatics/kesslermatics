@@ -10,20 +10,9 @@ In 2023, I completed my Bachelor's degree in Applied Computer Science, laying a 
 Presently, I am advancing my expertise by pursuing a Master's degree in Artificial Intelligence. <br/>
 In my freetime I like to create things with microcontroller and/or software development. <br/> <br/>
 See one of my biggest projects: <br/>
-<a href="https://github.com/kesslermatics/Spiderrobot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=spiderrobot&theme=vision-friendly-dark" />
-</a>
 <a href="https://github.com/kesslermatics/Aquaware">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=aquaware&theme=vision-friendly-dark" />
-</a> <br/> <br/>
-<a href="https://github.com/kesslermatics/Genetic-algorithms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=Genetic-algorithms&theme=vision-friendly-dark" />
 </a>
-<a href="https://github.com/kesslermatics/AI-Snek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=AI-Snek&theme=vision-friendly-dark" />
-</a>
-<br/> <br/>
-... and many more.
 <br/> <br/>
 
 <h2 align="left">🛠 My Favorite Languages And Frameworks</h2>
@@ -35,6 +24,7 @@ See one of my biggest projects: <br/>
 <br/> 
 
 <h2 align="left">📈 My Github Stats</h2>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kesslermatics)](https://git.io/streak-stats)
 <p align="left"> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kesslermatics&show_icons=true&theme=vision-friendly-dark" />
