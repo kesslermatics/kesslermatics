@@ -9,14 +9,13 @@ I started at 15 y/o with web development 🌐 and moved to C++ and embedded syst
 In 2023, I completed my Bachelor's degree in Applied Computer Science, laying a strong foundation in software development and computational theories. <br/>
 Presently, I am advancing my expertise by pursuing a Master's degree in Artificial Intelligence. <br/>
 In my freetime I like to create things with microcontroller and/or software development. <br/> <br/>
-See my further microcontroller projects: <br/>
+See one of my biggest projects: <br/>
 <a href="https://github.com/kesslermatics/Spiderrobot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=spiderrobot&theme=vision-friendly-dark" />
 </a>
 <a href="https://github.com/kesslermatics/Aquaware">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=aquaware&theme=vision-friendly-dark" />
 </a> <br/> <br/>
-... or my software projects: <br/>
 <a href="https://github.com/kesslermatics/Genetic-algorithms">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kesslermatics&repo=Genetic-algorithms&theme=vision-friendly-dark" />
 </a>
